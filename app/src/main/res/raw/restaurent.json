@@ -1,0 +1,172 @@
+[
+    {
+      "name":"parijatha",
+      "address":"main road kundapura",
+      "delivery_charge": 50,
+      "image":"https://r1imghtlak.mmtcdn.com/d40e3a9656f411eb81280242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;184,0&output-format=jpg",
+
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Idli sambaar",
+          "price": 50,
+          "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/idli-recipe-4.jpg"
+        },
+        {
+          "name": "Masala Dosa",
+          "price": 65,
+          "url": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/micowi4rq3d6gmjo2dww"
+        },
+        {
+          "name": "Puri Kurma",
+          "price": 54,
+          "url": "https://madhurasrecipe.com/wp-content/uploads/2020/10/Aloo-Kurma-Puri-Marathi-Recipe.jpg"
+        },
+        {
+          "name": "Plain Dosa",
+          "price": 48,
+          "url": "https://b.zmtcdn.com/data/dish_photos/556/dad1a0843839caa8bc5b484769105556.jpg"
+        },
+        {
+          "name": "Chapathi kurma",
+          "price": 40,
+          "url": "https://b.zmtcdn.com/data/dish_photos/f2d/7eb903f07fa68b009995cdcefe262f2d.jpg"
+        }
+      ]
+    },
+    {
+      "name":"Prabhu Cream Parlor",
+      "address":"Main Road Kundapura",
+      "delivery_charge": 40,
+      "image":"https://content3.jdmagicbox.com/comp/udupi/x7/0820px820.x820.140530224800.v5x7/catalogue/prabhu-cream-parlour-kundapura-market-udupi-udupi-ice-cream-parlours-02dq2jsvhh.jpg",
+
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "gudbud",
+          "price": 76,
+          "url": "https://images.jdmagicbox.com/comp/udupi/i7/0820px820.x820.101221152229.q9i7/catalogue/mantap-ice-cream-parlour-saligrama-udupi-restaurants-fkbew0wfqn.jpg?clr="
+        },
+        {
+          "name": "Navrathna",
+          "price": 60,
+          "url": "https://content.jdmagicbox.com/comp/udupi/x7/0820px820.x820.140530224800.v5x7/catalogue/prabhu-cream-parlour-kundapura-market-udupi-udupi-ice-cream-parlours-obtsvf-250.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 69,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 70,
+          "url": "https://static.toiimg.com/photo/84170265.cms"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 70,
+          "url": "data:image/jpeg;base64,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"
+
+        }
+      ]
+    },
+  {
+    "name":"Shetty lunch home",
+    "address":"Bus stand,near new city,Kundapura",
+    "delivery_charge": 50,
+    "image":"https://cdn.aroundmangalore.com/wp-content/uploads/2021/08/Shetty-Lunch-Home-Seafood-Restaurant-Kundapur-Karnataka.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    }
+    "menus": [
+      {
+        "name": "Chicken Gheeroast",
+        "price": 1050,
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f7/cc/29/shetty-s-lunch-home.jpg"
+      },
+      {
+        "name": "Paneer Gheeroast",
+        "price": 770,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoGSUQK0yAQVGeL3nY4geFJbU1pv-uOF7DQ&usqp=CAU"
+      },
+      {
+        "name": "Prawn Gheeroast",
+        "price": 900,
+        "url": "https://2.bp.blogspot.com/-JjfpskT1Er4/VhAAzt5oIkI/AAAAAAAAStc/pFGCRVmg0CE/s1600/04.jpg"
+      },
+      {
+        "name": "Fish Masalafry",
+        "price": 400,
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/22/db/09/shetty-lunch-home.jpg"
+      },
+      {
+        "name": "Biryani",
+        "price": 180,
+        "url": "https://b.zmtcdn.com/data/dish_photos/32a/3f34599daab15bd1ea506b60ca3ef32a.jpg"
+
+      }
+    ]
+  },
+  {
+    "name":"Swadisht",
+    "address":"Shastri circle Kundapura",
+    "delivery_charge": 60,
+    "image":"https://lh5.googleusercontent.com/p/AF1QipO-bAsES7F0UQctOGsWG4XuRSeMUNbMrvx_2XWU=w480-h300-k-n",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Chilly",
+        "price": 250,
+        "url": "https://b.zmtcdn.com/data/dish_photos/5d6/e4123c08e9fb5fe62fbe73f3b17775d6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+      },
+      {
+        "name": "Chicken lollipop",
+        "price": 285,
+        "url": "https://b.zmtcdn.com/data/dish_photos/42e/d75d88016e9a9394d9e0a0de16a7542e.jpg"
+      },
+      {
+        "name": "Egg chilly",
+        "price": 150,
+        "url": "https://www.licious.in/blog/wp-content/uploads/2021/11/shutterstock_2004853295-750x750.jpg"
+      },
+      {
+        "name": "Egg Manuchurian ",
+        "price": 140,
+        "url": "https://static.toiimg.com/thumb/62554826.cms?imgsize=238790&width=800&height=800"
+      }
+    ]
+  }
+]
